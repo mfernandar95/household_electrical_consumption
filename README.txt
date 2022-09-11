@@ -12,8 +12,9 @@ To run it you have to clone the repository or download the file and run it on an
 
 
 
-At this repository we have one file:
+At this repository we have one code file and a PPT presentation of the main analysis.
 data_analysis.ipynb - (Jupyter notebook): this file contains the exploratory data analysis and the modeling as well.
+Household electric power consumption.pptx: Main findings and points of analysis.
 
 
 
