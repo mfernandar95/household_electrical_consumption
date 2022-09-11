@@ -4,12 +4,12 @@ The EDA, trend andthe prediction in time is contained in the same file.
 The dataset is downloaded as the code runs.
 
 - Technology
-Python 3.9
+Python 3.7
 Jupyter Notebook
 
 - Run
-To run it you have to clone the repository or download the file and run it on an environment that contains Python 3.9.
-At the code there are some cells with "pip install..." requirements to be installed.
+To run it you have to clone the repository or download the file and run it on an environment that contains Python 3.7.
+
 
 
 At this repository we have one file:
