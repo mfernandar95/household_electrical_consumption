@@ -1,3 +1,18 @@
-At this repository we have two files:
-- (Jupyter notebook): this file contains the exploratory data analysis and the modeling as well
-- (text file): this is the data used at the analysis
+#Introduction
+This project consists on analysing https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption dataset. The behaviour of features as power and energy will be analysed throughout time in order to check if there are seasonality, stationarity and a trend.
+The EDA, trend andthe prediction in time is contained in the same file
+
+#Technology
+Python 3.9
+Jupyter Notebook
+
+#Run
+To run it you have to clone the repository or download the file and run it on an environment that contains Python 3.9
+
+
+At this repository we have one file:
+data_analysis.ipynb - (Jupyter notebook): this file contains the exploratory data analysis and the modeling as well
+
+
+
+
